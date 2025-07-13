@@ -1,7 +1,5 @@
-export const InvoicesPage = () => {
+export default function InvoicesPage(){
 return (
     <h1>INVOICES PAGE</h1>
 )
 }
-
-export default InvoicesPage;
